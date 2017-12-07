@@ -22,3 +22,7 @@ Então acrescente a seguinte linha:
 ```text
 nome_usuario ALL=(ALL:ALL) ALL
 ```
+
+-----
+
+[Voltar](README.md)
