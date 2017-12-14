@@ -65,4 +65,6 @@ $ sudo cp -pr dist/ /usr/share/icons/capitaine-cursors
 
 Para terminar de configurar basta selecionar os cursores e icones do Le Capitaine no TweakTools
 
+-----
 
+[Voltar](README.md)

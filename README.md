@@ -18,6 +18,10 @@ Configurações iniciais para o Debian 9
 
 [Como instalar o Android Studio](android_studio.md)
 
+## Instalando o _Spotify_
+
+[Como instalar o Spotify](spotify.md)
+
 ## Instalando o tema _Le Capitaine_
 
 [Como instalar o tema Le Capitaine](le_capitaine.md)
