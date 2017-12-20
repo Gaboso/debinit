@@ -18,6 +18,10 @@ Configurações iniciais para o Debian 9
 
 [Como instalar o Android Studio](android_studio.md)
 
+## Instalando o _Intellij IDEA_
+
+[Como instalar o Intellij IDEA](intellij_idea.md)
+
 ## Instalando o _Spotify_
 
 [Como instalar o Spotify](spotify.md)
