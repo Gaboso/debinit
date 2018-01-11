@@ -42,6 +42,11 @@ Exclua o aquirvo baixado após a instalação do _codec_:
 $ rm -rf w64codecs_20071007-dmo2_amd64.deb
 ```
 
+Aptitude
+```bash
+$ sudo apt-get install aptitude
+```
+
 Dependencia necessária para alguns programas como o _Android Studio_:
 ```bash
 $ sudo aptitude install libcanberra-gtk-module
@@ -49,51 +54,46 @@ $ sudo aptitude install libcanberra-gtk-module
 
 Instale algumas _libs_ uteis para descompatação:
 ```bash
-$ sudo apt-get install arc arj cabextract lhasa p7zip p7zip-full p7zip-rar rar unrar unace unzip xz-utils zip
+$ sudo aptitude install arc arj cabextract lhasa p7zip p7zip-full p7zip-rar rar unrar unace unzip xz-utils zip
 ```
 Mais algumas libs uteis:
 ```bash
-$ sudo apt-get install build-essential most cups-pdf poppler-utils
-```
-
-Aptitude
-```bash
-$ sudo apt-get install aptitude
+$ sudo aptitude install build-essential most cups-pdf poppler-utils
 ```
 
 _Gdebi_ (Gerenciador de pacotes)
 ```bash
-$ sudo apt-get install gdebi
+$ sudo aptitude install gdebi
 ```
 
 Git
 ```bash
-$ sudo apt-get install git-core
+$ sudo aptitude install git-core
 ```
 
 Curl
 ```bash
-$ sudo apt-get install curl
+$ sudo aptitude install curl
 ```
 
 Dirmngr
 ```bash
-$ sudo apt-get install dirmngr
+$ sudo aptitude install dirmngr
 ```
 
 SmPlayer
 ```bash
-$ sudo apt install smplayer
+$ sudo aptitude install smplayer
 ```
 
 qBitTorrent
 ```bash
-$ sudo apt-get install qbittorrent
+$ sudo aptitude install qbittorrent
 ```
 
 gParted (Gerenciador de partições)
 ```bash
-$ sudo apt-get install gparted
+$ sudo aptitude install gparted
 ```
 
 -----

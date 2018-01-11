@@ -7,7 +7,7 @@ $ cd /home/$USER/Downloads
 
 Baixando a libssl 1.0.0 para o Spotify
 ```bash
-$ wget http://ftp.br.debian.org/debian/pool/main/o/openssl/libssl1.0.0_1.0.1t-1+deb8u6_amd64.deb
+$ wget http://ftp.br.debian.org/debian/pool/main/o/openssl/libssl1.0.0_1.0.1t-1+deb8u7_amd64.deb
 ```
 
 Instalando a libssl
@@ -33,6 +33,11 @@ $ sudo apt-get update
 Instalando o Spotify
 ```bash
 $ apt-get install spotify-client
+```
+
+Removendo o instalador da libssl 1.0.0
+```bash
+$ rm libssl1.0.0*.deb
 ```
 
 -----
