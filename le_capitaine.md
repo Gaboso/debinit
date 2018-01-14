@@ -11,7 +11,9 @@ $ mkdir .icons
 ```
 
 Entrando na pasta
+```bash
 cd .icons
+```
 
 Clonando projeto Le Capitaine
 ```bash

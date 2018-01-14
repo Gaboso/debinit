@@ -32,7 +32,7 @@ $ sudo apt-get update
 
 Instalando o Spotify
 ```bash
-$ apt-get install spotify-client
+$ sudo apt-get install spotify-client
 ```
 
 Removendo o instalador da libssl 1.0.0
