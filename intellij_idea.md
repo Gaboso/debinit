@@ -9,6 +9,11 @@ Depois de feito o download do _IDEA_, execute o seguinte comando para descompact
 $ tar xfz ideaIU-*.tar.gz
 ```
 
+Remoção do arquivo baixado, depois da extração:
+```bash
+$ rm ideaIU-*.tar.gz
+```
+
 Após a descompactação mova a pasta para o diretório `opt`:
 ```bash
 $ sudo mv idea* /opt/

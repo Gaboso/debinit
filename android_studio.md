@@ -9,6 +9,11 @@ Depois de feito o download do _AS_, execute o seguinte comando para descompacta-
 $ unzip android-studio-ide-*.zip
 ```
 
+Remoção do arquivo baixado, depois da extração:
+```bash
+$ rm android-studio-ide-*.zip
+```
+
 Após a descompactação mova a pasta para o diretório `opt`:
 ```bash
 $ sudo mv android-studio /opt/
