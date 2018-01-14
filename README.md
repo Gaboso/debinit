@@ -10,6 +10,11 @@ Configurações iniciais para o Debian 9
 
 [Como instalar os básicos](basicos.md)
 
+
+## Instalando o _Google Chrome_
+
+[Como instalar o Google Chrome](google_chrome.md)
+
 ## Instalando o _Oracle Java_
 
 [Como instalar o Oracle Java](java.md)
@@ -25,6 +30,10 @@ Configurações iniciais para o Debian 9
 ## Instalando o _Spotify_
 
 [Como instalar o Spotify](spotify.md)
+
+## Instalando o _Skype_
+
+[Como instalar o Skype](skype.md)
 
 ## Instalando o tema _Le Capitaine_
 
