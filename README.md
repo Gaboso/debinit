@@ -19,6 +19,10 @@ Configurações iniciais para o Debian 9
 
 [Como instalar o Oracle Java](java.md)
 
+## Instalando o _Gradle_
+
+[Como instalar o Gradle](gradle.md)
+
 ## Instalando o _Android Studio_
 
 [Como instalar o Android Studio](android_studio.md)
