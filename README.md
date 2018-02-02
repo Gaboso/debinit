@@ -10,7 +10,6 @@ Configurações iniciais para o Debian 9
 
 [Como instalar os básicos](basicos.md)
 
-
 ## Instalando o _Google Chrome_
 
 [Como instalar o Google Chrome](google_chrome.md)
@@ -22,6 +21,10 @@ Configurações iniciais para o Debian 9
 ## Instalando o _Gradle_
 
 [Como instalar o Gradle](gradle.md)
+
+## Instalando o _NodeJS_
+
+[Como instalar o NodeJS](node_js.md)
 
 ## Instalando o _Android Studio_
 
