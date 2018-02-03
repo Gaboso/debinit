@@ -10,7 +10,7 @@ O comando seguinte instalará o comando `add-apt-repository`:
 $ sudo apt-get install software-properties-common
 ```
 
-Após a execução do comando acima, podemos adicionar o0 repositório:
+Após a execução do comando acima, podemos adicionar o repositório:
 ```bash
 $ sudo add-apt-repository "deb http://ppa.launchpad.net/webupd8team/java/ubuntu yakkety main"
 ```

@@ -26,6 +26,10 @@ Configurações iniciais para o Debian 9
 
 [Como instalar o NodeJS](node_js.md)
 
+## Instalando o _Docker_
+
+[Como instalar o Docker](docker.md)
+
 ## Instalando o _Android Studio_
 
 [Como instalar o Android Studio](android_studio.md)
