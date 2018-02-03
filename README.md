@@ -46,4 +46,6 @@ Configurações iniciais para o Debian 9
 
 [Como instalar o tema Le Capitaine](le_capitaine.md)
 
+## Instalando o tema _Popcorn Time_
 
+[Como instalar o tema Popcorn Time](popcorn_time.md)
