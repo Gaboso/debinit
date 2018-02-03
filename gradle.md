@@ -5,7 +5,7 @@
 
 -----
 
-Crie a diretório para o _gradle_
+Crie a diretório para o _gradle_:
 ```bash
 $ sudo mkdir /opt/gradle
 ```
@@ -43,4 +43,3 @@ $ gradle -v
 -----
 
 [Voltar](README.md)
-

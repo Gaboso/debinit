@@ -34,6 +34,7 @@ Após a instalação, verifique a versão do _Java_:
 ```bash
 $ java -version
 ```
+
 -----
 
 ## Criando variável de ambiente
@@ -61,4 +62,3 @@ $ echo $JAVA_HOME
 -----
 
 [Voltar](README.md)
-

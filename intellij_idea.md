@@ -1,6 +1,6 @@
 # Como instalar o Intellij IDEA
 
-Baixe o _Intellij IDEA_ (_IDEA_) através do seguinte link:
+Baixe o _Intellij IDEA_ (_IDEA_) através do seguinte link:     
 https://www.jetbrains.com/idea/download/index.html
 
 
@@ -27,4 +27,3 @@ Com o _IDEA_ já no diretório `opt`, basta o executar:
 -----
 
 [Voltar](README.md)
-

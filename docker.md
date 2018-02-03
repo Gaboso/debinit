@@ -20,14 +20,14 @@ Agora vamos atualizar as referências:
 $ sudo apt-get update
 ```
 
-Por fim atualizar os repositórios:
-```bash
-$ sudo apt update
-```
-
 Agora instalar o _Docker_:
 ```bash
 $ sudo apt-get install docker-engine
+```
+
+Para testar execute o seguinte comando:
+```bash
+$ sudo docker run hello-world
 ```
 
 -----

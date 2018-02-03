@@ -1,4 +1,4 @@
-# Como instalar o Skype
+# Como instalar o _Skype_
 
 Baixe a chave do repositório e depois adicione ela ao sistema:
 ```bash
@@ -15,7 +15,7 @@ Depois de adicionado o repositorio, é necessario atualizar as referências do s
 $ sudo apt-get update
 ```
 
-Agora é só instalar o Chrome:
+Agora é só instalar o _Skype_:
 ```bash
 $ sudo apt-get install skypeforlinux
 ```
@@ -23,4 +23,3 @@ $ sudo apt-get install skypeforlinux
 -----
 
 [Voltar](README.md)
-

@@ -1,6 +1,6 @@
 # Como instalar o Android Studio
 
-Baixe o _Android Studio_ (_AS_) através do seguinte link:
+Baixe o _Android Studio_ (_AS_) através do seguinte link:     
 https://developer.android.com/studio/index.html
 
 
@@ -32,4 +32,3 @@ Com o _AS_ já no diretório `opt`, basta o executar:
 -----
 
 [Voltar](README.md)
-

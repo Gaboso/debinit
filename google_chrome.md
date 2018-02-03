@@ -15,7 +15,7 @@ Depois de adicionado o repositorio, é necessario atualizar as referências do s
 $ sudo apt-get update
 ```
 
-Agora é só instalar o Chrome:
+Agora é só instalar o _Chrome_:
 ```bash
 $ sudo apt-get install google-chrome-stable
 ```
@@ -23,4 +23,3 @@ $ sudo apt-get install google-chrome-stable
 -----
 
 [Voltar](README.md)
-

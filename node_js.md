@@ -1,6 +1,6 @@
 # Como instalar o _NodeJS_
 
-Baixando o fonte do NodeJS
+Baixando o fonte do _NodeJS_:
 ```bash
 $ curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 ```

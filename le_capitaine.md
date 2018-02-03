@@ -2,7 +2,7 @@
 
 Entrando na pasta do usuario
 ```bash
-$ cd /home/$USER
+$ cd ~
 ```
 
 Criando diretorio para os icones
@@ -32,7 +32,7 @@ $ ./configure
 
 Entrando na pasta do usuario
 ```bash
-$ cd /home/$USER
+$ cd ~
 ```
 
 Criando diretorio para os cursores

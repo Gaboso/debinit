@@ -1,11 +1,11 @@
 # Como instalar o _Popcorn Time_
 
-Criar diretório para o PopCorn Time
+Criar diretório para o _Popcorn Time_:
 ```bash
 $ sudo mkdir /opt/popcorn-time
 ```
 
-Baixe o fonte do `Popcorn`:
+Baixar o fonte:
 
 > Para **32 bits**
 ```bash
@@ -19,12 +19,12 @@ ou
 $ sudo wget -qO- https://get.popcorntime.sh/build/Popcorn-Time-0.3.10-Linux-64.tar.xz | sudo tar Jx -C /opt/popcorn-time
 ```
 
-Criar um link para o `Popcorn`:
+Criar um link para o _Popcorn Time_:
 ```bash
 $ sudo ln -sf /opt/popcorn-time/Popcorn-Time /usr/bin/popcorn-time
 ```
 
-Para criar um _Desktop Launcher_ a o seguinte arquivo:
+Para criar um _Desktop Launcher_:
 ```bash
 $ sudo gedit /usr/share/applications/popcorntime.desktop
 ```
@@ -41,7 +41,7 @@ Icon = /opt/popcorn-time/popcorntime.png
 Categories = Application;
 ```
 
-Após salvar o arquivo, inclua um icone a aplicação:
+Após salvar o arquivo, inclua um ícone a aplicação:
 ```bash
 $ sudo wget -q -O /opt/popcorn-time/popcorntime.png https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png
 ```
@@ -56,4 +56,3 @@ Procure o `Popcorn Time` no menu de aplicações e execute-o, para testar.
 -----
 
 [Voltar](README.md)
-
