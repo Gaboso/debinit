@@ -1,5 +1,7 @@
 # Como instalar o _Spotify_
 
+![Spotify logo](img/spotify_logo.jpeg)
+
 Entrando na pasta do usuário:
 ```bash
 $ cd ~/Downloads

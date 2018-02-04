@@ -1,5 +1,7 @@
 # Como instalar o _Popcorn Time_
 
+![Popcorn Time logo](img/pctlogo.png)
+
 Criar diretório para o _Popcorn Time_:
 ```bash
 $ sudo mkdir /opt/popcorn-time

@@ -1,4 +1,6 @@
-# Como instalar o Google Chrome
+# Como instalar o _Google Chrome_
+
+![Google Chrome logo](img/google_chrome_icon.png)
 
 Baixe a chave do repositório e depois adicione ela ao sistema:
 ```bash
@@ -10,7 +12,7 @@ Depois de adicionado a chave, adicione o repositório ao sistema:
 $ sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
 ```
 
-Depois de adicionado o repositorio, é necessario atualizar as referências do sistema:
+Depois de adicionado o repositório, é necessario atualizar as referências do sistema:
 ```bash
 $ sudo apt-get update
 ```

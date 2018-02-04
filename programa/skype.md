@@ -1,5 +1,7 @@
 # Como instalar o _Skype_
 
+![Skype logo](img/skype_logo.png)
+
 Baixe a chave do repositório e depois adicione ela ao sistema:
 ```bash
 $ wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -

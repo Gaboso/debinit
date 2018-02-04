@@ -2,7 +2,7 @@
 
 Configurações iniciais para o Debian 9
 
-![Debian logo][img/debian_stretch.png]
+![Debian logo](img/debian_stretch.png)
 
 ## Instalando o _sudo_
 
