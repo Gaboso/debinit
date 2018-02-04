@@ -2,6 +2,8 @@
 
 Configurações iniciais para o Debian 9
 
+![Debian logo][img/debian_stretch.png]
+
 ## Instalando o _sudo_
 
 [Como instalar o sudo](sudo.md)
@@ -10,46 +12,18 @@ Configurações iniciais para o Debian 9
 
 [Como instalar os básicos](basicos.md)
 
-## Instalando o _Google Chrome_
+## Programas
 
-[Como instalar o Google Chrome](google_chrome.md)
+[Programas](programa/README.md)
 
-## Instalando o _Oracle Java_
+## IDEs
 
-[Como instalar o Oracle Java](java.md)
+[IDEs](ide/README.md)
 
-## Instalando o _Gradle_
+## Desenvolvimento
 
-[Como instalar o Gradle](gradle.md)
+[Desenvolvimento](desenvolvimento/README.md)
 
-## Instalando o _NodeJS_
+## Temas
 
-[Como instalar o NodeJS](node_js.md)
-
-## Instalando o _Docker_
-
-[Como instalar o Docker](docker.md)
-
-## Instalando o _Android Studio_
-
-[Como instalar o Android Studio](android_studio.md)
-
-## Instalando o _Intellij IDEA_
-
-[Como instalar o Intellij IDEA](intellij_idea.md)
-
-## Instalando o _Spotify_
-
-[Como instalar o Spotify](spotify.md)
-
-## Instalando o _Skype_
-
-[Como instalar o Skype](skype.md)
-
-## Instalando o tema _Le Capitaine_
-
-[Como instalar o tema Le Capitaine](le_capitaine.md)
-
-## Instalando o tema _Popcorn Time_
-
-[Como instalar o tema Popcorn Time](popcorn_time.md)
+[Temas](tema/README.md)
