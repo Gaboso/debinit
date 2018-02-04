@@ -1,5 +1,7 @@
 # Como instalar o Intellij IDEA
 
+![Intellij IDEA logo](img/intellij_idea_logo.png)
+
 Baixe o _Intellij IDEA_ (_IDEA_) através do seguinte link:     
 https://www.jetbrains.com/idea/download/index.html
 

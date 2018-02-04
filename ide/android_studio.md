@@ -1,5 +1,7 @@
 # Como instalar o Android Studio
 
+![Android Studio logo](img/android_studio_logo.png)
+
 Baixe o _Android Studio_ (_AS_) através do seguinte link:     
 https://developer.android.com/studio/index.html
 
