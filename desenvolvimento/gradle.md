@@ -1,5 +1,7 @@
 # Como instalar o _Gradle_
 
+![Gradle logo](img/gradle_logo.png)
+
 **OBS: Para instalar o _gradle_ é necessario ter o _Java_ instalado**
 [Passos para instalar o Java](java.md)
 

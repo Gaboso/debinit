@@ -1,5 +1,7 @@
 # Como instalar o _Oracle Java_
 
+![Java logo](img/java_logo.png)
+
 Removendo o OpenJDK
 ```bash
 $ sudo apt-get remove --purge openjdk-*

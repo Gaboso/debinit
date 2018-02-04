@@ -1,5 +1,7 @@
 # Como instalar o _Docker_
 
+![Docker logo](img/docker_logo.png)
+
 Instalando os pré-requisitos:
 ```bash
 $ sudo apt-get install apt-transport-https dirmngr
