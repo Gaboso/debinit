@@ -8,6 +8,10 @@
 
 [Como instalar o Intellij IDEA](intellij_idea.md)
 
+## Instalando o _CLion IDE_
+
+[Como instalar o CLion IDE](clion.md)
+
 -----
 
 [Voltar](../README.md)
