@@ -18,11 +18,27 @@ Depois de adicionado o repositório, é necessario atualizar as referências do 
 $ sudo apt-get update
 ```
 
-Agora é só instalar a versão desejada.
+Agora instale a versão desejada.
 ```bash
 $ sudo apt-get install virtualbox-5.2
 $ sudo apt-get install virtualbox-5.1
 $ sudo apt-get install virtualbox-5.0
+```
+
+A instalação foi completada mas se for mostrada uma msg apos a instalação:
+
+![Virtual Box](img/erroinstall.png)
+
+Instale a versão do linux-headers solicitada na msg.
+
+```bash
+$ sudo apt-get install linux-headers-(Versão desejada)-amd64
+```
+
+em seguida execute o arquivo solicitado na msg:
+
+```bash
+$ sudo /sbin/vboxconfig
 ```
 
 -----
