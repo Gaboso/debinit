@@ -28,6 +28,10 @@ Configurações iniciais para o Debian 9
 
 [Virtualização](virtualizacao/README.md)
 
+## Banco de dados
+
+[Banco de Dados](banco-de-dados/README.md)
+
 ## Temas
 
 [Temas](tema/README.md)
