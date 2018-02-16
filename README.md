@@ -24,6 +24,10 @@ Configurações iniciais para o Debian 9
 
 [Desenvolvimento](desenvolvimento/README.md)
 
+## Virtualização
+
+[Virtualização](virtualizacao/README.md)
+
 ## Temas
 
 [Temas](tema/README.md)
