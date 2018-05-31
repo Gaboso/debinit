@@ -1,4 +1,4 @@
-# Como instalar o Intellij IDEA
+# Como instalar o CLion IDE
 
 ![Clion logo](img/clion.png)
 
