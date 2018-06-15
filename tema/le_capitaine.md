@@ -52,7 +52,7 @@ $ git clone https://github.com/keeferrourke/capitaine-cursors.git
 
 Acessando o projeto clonado
 ```bash
-$ cd capitaine-cursors
+$ cd capitaine-cursors/
 ```
 
 Construir os cursores na pasta dist
