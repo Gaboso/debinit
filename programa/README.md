@@ -12,9 +12,9 @@
 
 [Como instalar o Skype](skype.md)
 
-## Instalando o tema _Popcorn Time_
+## Instalando o _Popcorn Time_
 
-[Como instalar o tema Popcorn Time](popcorn_time.md)
+[Como instalar o Popcorn Time](popcorn_time.md)
 
 -----
 

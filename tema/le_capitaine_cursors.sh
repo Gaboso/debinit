@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # User Folder
-cd /home/gaboso/Downloads
+cd ~
 
 # Folder Icons
 mkdir .cursors && cd .cursors
