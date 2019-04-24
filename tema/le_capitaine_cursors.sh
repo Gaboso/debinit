@@ -10,3 +10,6 @@ mkdir .cursors && cd .cursors
 git clone https://github.com/keeferrourke/capitaine-cursors.git &&
  cd capitaine-cursors/ &&
  ./build.sh
+
+# Copy cursors
+sudo cp -pr dist/ /usr/share/icons/capitaine-cursors
